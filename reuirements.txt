@@ -1,8 +1,0 @@
-streamlit 
-pandas 
-matolotlib
-numpy
-PIL
-pathlib
-time
-pytesseract
